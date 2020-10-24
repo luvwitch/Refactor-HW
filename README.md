@@ -2,4 +2,4 @@
 
 ##  Description
 
-A brief practive in modifying a starter code into semantic html.
+A brief practice in modifying a starter code into semantic html.
